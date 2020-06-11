@@ -6,7 +6,7 @@ namespace TestConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Exemplo de uso do GitHub");
+            Console.WriteLine("Exemplo de uso do GitHub com Visaulstudio 2019");
             Console.ReadKey();
         }
     }
